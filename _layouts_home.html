@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<div class="home">
+  <h1>{{ page.title | default: site.title }}</h1>
+  <div class="bio">
+    <p>{{ site.description }}</p>
+  </div>
+
+  <hr />
+
+  <h2>Blog</h2>
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </h3>
+      </li>
+    {% endfor %}
+  </ul>
+</div>

@@ -1,0 +1,14 @@
+title: "Jiahao Wan"
+description: "Postdoctoral researcher at Lawrence Berkeley National Lab. Research interests: fundamentals and applications of mass spectrometry, organic chemistry, and physical chemistry."
+author: "Jiahao Wan"
+email: ""
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://wjhb1997.github.io" # your GitHub Pages URL
+theme: minima
+
+# Optional social links (add as needed)
+# twitter_username: your_twitter
+# github_username: wjhb1997
+
+# Build settings
+markdown: kramdown
