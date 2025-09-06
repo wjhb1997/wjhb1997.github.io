@@ -3,8 +3,12 @@ layout: default
 ---
 
 <div class="home">
-  <h1>{{ page.title | default: site.title }}</h1>
-  <div class="bio">
+  <!-- Title: only show once in the top-left corner -->
+  <div class="site-title" style="position: absolute; top: 0; left: 0;">
+    <h1 style="margin: 0;">{{ page.title | default: site.title }}</h1>
+  </div>
+  
+  <div class="bio" style="margin-top: 60px;">
     <p>{{ site.description }}</p>
   </div>
 
