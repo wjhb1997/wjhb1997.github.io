@@ -6,7 +6,7 @@ title: "Jiahao Wan"
 # Jiahao Wan
 
 I am a postdoctoral researcher at Lawrence Berkeley National Lab.  
-My research interests cover topics from fundamentals and applications of mass spectrometry, organic chemistry, and physical chemistry.
+My research interests cover a broad range of topics such as fundamentals and applications of mass spectrometry, organic chemistry and biophysics. Please see Research page if you want to learn more.
 
 ---
 
