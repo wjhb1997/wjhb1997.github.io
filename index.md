@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: home_Version2
 title: ""
 ---
 
