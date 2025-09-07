@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Jiahao Wan"
+title: ""
 ---
 
 # Jiahao Wan
